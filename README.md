@@ -1,4 +1,4 @@
-<h1 align="center">📱 React Native X Clone Tutorial 🚀</h1>
+<h1 align="center">📱 React Native X Clone 🚀</h1>
 
 ![Demo App](/mobile/assets/images/screenshot-for-readme.png)
 
@@ -25,7 +25,6 @@ Welcome to the **X Clone** tutorial! In this course, you'll build a fully functi
 - 🔐 Implement robust auth with **Clerk**
 - ☁️ Upload & serve images via **Cloudinary**
 - 🛡️ Add rate-limiting, bot detection & security with **Arcjet**
-- 🧪 Use **Git & GitHub** in real-world team workflow (PRs & branches)
 - 📦 Connect everything in a real deployment setup
 
 ---
